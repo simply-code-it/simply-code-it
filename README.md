@@ -5,6 +5,16 @@
 
 - 🔭 I’m currently working on **tic-tac-toe**
 
+- 🌱 I’m currently learning **React, Redux, TypeScript**
+
+- 👯 I’m looking to collaborate on [Web3Wallet App](https://github.com/simply-code-it/Web3Wallet)
+
+- 💬 Ask me about **JavaScript, Java, Solidity, Golang, Nodejs, SpringBoot**
+
+- 📫 How to reach me **dashwar.pradeep@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/eluconsmider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eluconsmider" height="30" width="40" /></a>
@@ -20,6 +30,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-code-it&show_icons=true&locale=en&layout=compact" alt="simply-code-it" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
+
+
+
+
+
+
 
 
 
