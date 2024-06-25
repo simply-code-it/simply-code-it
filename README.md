@@ -18,21 +18,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/eluconsmider" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/codepen.png" alt="CodePen" height="30" width="30" style="margin-right: 10px;" /></a>
-<a href="https://linkedin.com/in/simplycodeit" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" /></a>
-<a href="https://codesandbox.com/simply-code-it" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/code-sandbox.png" alt="CodeSandbox" height="30" width="30" style="margin-right: 10px;" /></a>
-<a href="https://www.behance.net/pradeepyadav168" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" height="30" width="30" style="margin-right: 10px;" /></a>
-<a href="https://leetcode.com/simplycodeit" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" height="30" width="30" style="margin-right: 10px;" /></a>
-</p>
 
-<!-- <p align="left">
+<p align="center">
 <a href="https://codepen.io/eluconsmider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eluconsmider" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simplycodeit" height="30" width="40" /></a>
 <a href="https://codesandbox.com/simply-code-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="simply-code-it" height="30" width="40" /></a>
 <a href="https://www.behance.net/pradeepyadav168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pradeepyadav168" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simplycodeit" height="30" width="40" /></a>
-</p> -->
+</p> 
 
 <h2>Languages and Tools</h2>
 
