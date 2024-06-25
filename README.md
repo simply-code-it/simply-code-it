@@ -14,7 +14,7 @@
     <p>🔭 I’m currently working on <strong>Ticketing App</strong></p>
     <p>🌱 I’m currently learning <strong>React, Redux, TypeScript</strong></p>
     <p>💬 Ask me about <strong>JavaScript, Java, Solidity, Golang, Nodejs, SpringBoot</strong></p>
-    <p>📫 How to reach me <a href="mailto:dashwar.pradeep@gmail.com">dashwar.pradeep@gmail.com</a></p>
+    <p>📫 Feel free to email <a href="mailto:dashwar.pradeep@gmail.com">dashwar.pradeep@gmail.com</a></p>
 </div>
 
 
