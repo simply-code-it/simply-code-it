@@ -5,7 +5,7 @@
 
 <br/>
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
-<h3 align="center">A passionate MERN-Stack Developer</h3>
+<h3 align="center">A Passionate MERN-Stack Developer</h3>
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simply-code-it&label=Profile%20views&color=0e75b6&style=flat" alt="simply-code-it" /> </p>
@@ -22,11 +22,11 @@
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-<a href="https://codepen.io/eluconsmider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eluconsmider" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simplycodeit" height="30" width="40" /></a>
-<a href="https://codesandbox.com/simply-code-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="simply-code-it" height="30" width="40" /></a>
-<a href="https://www.behance.net/pradeepyadav168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pradeepyadav168" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simplycodeit" height="30" width="40" /></a>
+<a href="https://codepen.io/eluconsmider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eluconsmider" height="25" width="60" /></a>
+<a href="https://linkedin.com/in/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simplycodeit" height="25" width="60" /></a>
+<a href="https://codesandbox.com/simply-code-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="simply-code-it" height="25" width="60" /></a>
+<a href="https://www.behance.net/pradeepyadav168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pradeepyadav168" height="25" width="60" /></a>
+<a href="https://www.leetcode.com/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simplycodeit" height="25" width="60" /></a>
 </p> 
 
 
