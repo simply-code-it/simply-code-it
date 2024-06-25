@@ -10,7 +10,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simply-code-it&label=Profile%20views&color=0e75b6&style=flat" alt="simply-code-it" /> </p>
 
-<ul align="center" style="list-style: none;">
+<ul style="list-style: none;">
     <li>🔭 I’m currently working on <strong>Ticketing App</strong></li>
     <li>🌱 I’m currently learning <strong>React, Redux, TypeScript</strong></li>
     <li>💬 Ask me about <strong>JavaScript, Java, Solidity, Golang, Nodejs, SpringBoot</strong></li>
