@@ -3,11 +3,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<br/>
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
-<h3 align="center">A passionate MERN-Stack developer from India</h3>
+<h3 align="center">A passionate MERN-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simply-code-it&label=Profile%20views&color=0e75b6&style=flat" alt="simply-code-it" /> </p>
-
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simply-code-it&label=Profile%20views&color=0e75b6&style=flat" alt="simply-code-it" /> </p>
+<pre align="center">
 - 🔭 I’m currently working on **Ticketing App**
 
 - 🌱 I’m currently learning **React, Redux, TypeScript**
@@ -15,7 +17,7 @@
 - 💬 Ask me about **JavaScript, Java, Solidity, Golang, Nodejs, SpringBoot**
 
 - 📫 How to reach me **dashwar.pradeep@gmail.com**
-
+</pre>
 
 <br/>
 <h2 align="center">Connect with me:</h2>
