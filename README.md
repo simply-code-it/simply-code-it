@@ -42,8 +42,9 @@
         <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-00BFFF?style=for-the-badge" alt="Data Structures and Algorithms">
 </div>
 
+<h2>Most Used Languages</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-code-it&show_icons=true&locale=en&layout=compact" alt="simply-code-it" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-code-it&show_icons=true&locale=en&layout=compact" alt="simply-code-it" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
+<h2>Contributions and Streaks</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
 
