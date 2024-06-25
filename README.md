@@ -17,7 +17,8 @@
 - 📫 How to reach me **dashwar.pradeep@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h2 align="cneter">Connect with me:</h2>
 
 <p align="center">
 <a href="https://codepen.io/eluconsmider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eluconsmider" height="30" width="40" /></a>
@@ -27,7 +28,9 @@
 <a href="https://www.leetcode.com/simplycodeit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simplycodeit" height="30" width="40" /></a>
 </p> 
 
-<h2>Languages and Tools</h2>
+
+
+<h2 align="center">Languages and Tools</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -43,9 +46,15 @@
         <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-00BFFF?style=for-the-badge" alt="Data Structures and Algorithms">
 </div>
 
-<h2>Most Used Languages</h2>
+
+
+<h2 align="center">Most Used Languages</h2>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-code-it&show_icons=true&locale=en&layout=compact" alt="simply-code-it" /></p>
 
-<h2>Contributions and Streaks</h2>
+
+
+<h2 align="center">Contributions and Streaks</h2>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
 
