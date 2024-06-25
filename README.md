@@ -17,8 +17,8 @@
 - 📫 How to reach me **dashwar.pradeep@gmail.com**
 
 
-
-<h2 align="cneter">Connect with me:</h2>
+<br/>
+<h2 align="center">Connect with me:</h2>
 
 <p align="center">
 <a href="https://codepen.io/eluconsmider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eluconsmider" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 </p> 
 
 
-
+<br/>
 <h2 align="center">Languages and Tools</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -47,13 +47,13 @@
 </div>
 
 
-
+<br/>
 <h2 align="center">Most Used Languages</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-code-it&show_icons=true&locale=en&layout=compact" alt="simply-code-it" /></p>
 
 
-
+<br/>
 <h2 align="center">Contributions and Streaks</h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
