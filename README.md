@@ -58,13 +58,3 @@
 <h2 align="center">Contributions and Streaks</h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-code-it&show_icons=true&locale=en&layout=compact" alt="simply-code-it" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simply-code-it&show_icons=true&locale=en" alt="simply-code-it" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&" alt="simply-code-it" /></p>
-
