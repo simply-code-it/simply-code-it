@@ -5,7 +5,7 @@
 
 <br/>
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
-<h3 align="center">A Passionate MERN-Stack Developer</h3>
+<h3 align="center">A Passionate MERN-Stack + Java Backend Developer</h3>
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simply-code-it&label=Profile%20views&color=0e75b6&style=flat" alt="simply-code-it" /> </p>
