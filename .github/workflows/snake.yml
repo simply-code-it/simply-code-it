@@ -5,21 +5,35 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: simply-code-it
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone --branch output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output-branch || git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output-branch
+
+          cd output-branch
+
+          git checkout --orphan output 2>/dev/null || true
+
+          git rm -rf . 2>/dev/null || true
+
+          cp ../dist/github-contribution-grid-snake.svg .
+
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || true
+          git push origin output --force
