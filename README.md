@@ -291,14 +291,11 @@ I regularly practice:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simply-code-it&show_icons=true&hide_border=true&count_private=true)
+<img src="./profile/stats.svg" alt="GitHub Stats"/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simply-code-it&layout=compact&hide_border=true&langs_count=10)
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=simply-code-it&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/> -->
+<br/><br/>
 
-<!-- <br/><br/> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simply-code-it&layout=compact&hide_border=true&langs_count=10" alt="Most Used Languages"/> -->
+<img src="./profile/top-langs.svg" alt="Most Used Languages"/>
 
 <br/><br/>
 
@@ -352,7 +349,7 @@ Production-oriented backend application designed for containerized deployment an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simply-code-it&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="./profile/activity.svg" alt="GitHub Activity Graph"/>
 
 </div>
 
