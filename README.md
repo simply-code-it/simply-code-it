@@ -5,15 +5,15 @@
 
 <br/>
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
-<h3 align="center">A Passionate MERN-Stack + Java Backend Developer</h3>
+<h3 align="center">A Passionate Java Backend Developer</h3>
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simply-code-it&label=Profile%20views&color=0e75b6&style=flat" alt="simply-code-it" /> </p>
 
 <div align="center">
-    <p>🔭 I’m currently working on <strong>Ticketing App</strong></p>
-    <p>🌱 I’m currently learning <strong>React, Redux, TypeScript</strong></p>
-    <p>💬 Ask me about <strong>JavaScript, Java, Solidity, Golang, Nodejs, SpringBoot</strong></p>
+    <p>🔭 I’m currently working on <strong>Enterprise banking App</strong></p>
+    <p>🌱 I’m currently learning <strong>Spring and SpringBoot</strong></p>
+    <p>💬 Ask me about <strong>Java, JavaScript, SpringBoot, Nodejs</strong></p>
     <p>📫 Feel free to email <a href="mailto:dashwar.pradeep@gmail.com">dashwar.pradeep@gmail.com</a></p>
 </div>
 
