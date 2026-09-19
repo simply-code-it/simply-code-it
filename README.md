@@ -291,14 +291,6 @@ I regularly practice:
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Stats"/>
-
-<br/><br/>
-
-<img src="./profile/top-langs.svg" alt="Most Used Languages"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply-code-it&hide_border=true" alt="GitHub Streak"/>
 
 </div>
@@ -347,11 +339,14 @@ Production-oriented backend application designed for containerized deployment an
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<h2 align="center">🐍 GitHub Contributions</h2>
 
-<img src="./profile/activity.svg" alt="GitHub Activity Graph"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/simply-code-it/simply-code-it/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ---
 
